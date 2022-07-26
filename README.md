@@ -2,9 +2,10 @@
 Custom Docker Image with App Services
 
 Prerequisistes:
-Java 11 or higher, 
-Maven, 
-Docker
+- Java 11 or higher
+- Maven
+- Docker
+- jjmpeg.exe inside project folder
 
 To run:
 1. Build jar file: ```mvn package```
